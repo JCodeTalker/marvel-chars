@@ -2,14 +2,13 @@ body {
     background-color: darkgray;
     display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
 }
 
 .card {
     box-shadow: 3px 3px 5px;
     margin: auto;
-    position: relative;
+    /*position: relative;*/
 }
 
 nav {
@@ -17,8 +16,6 @@ nav {
 }
 
 ul {
-    height: 100%;
-    margin: 0;
     box-shadow: 3px 3px 5px;
 }
 
